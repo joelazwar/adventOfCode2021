@@ -23,7 +23,7 @@
         "command": "C:\\MinGW\\bin\\g++.exe",
         "args": [
             "-g",
-            "${fileDirname}\\dive.cpp",
+            "${fileDirname}\\binaryDiagnostic.cpp",
             "-std=c++0x",
             "-o",
             "${fileDirname}\\${fileBasenameNoExtension}.exe"

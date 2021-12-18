@@ -4,7 +4,6 @@
 #include <string>
 #include <sstream>
 #include <iomanip>
-#include <windows.h>  
 
 using namespace std;
 

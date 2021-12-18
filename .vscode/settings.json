@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "ratio": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "format": "cpp",
+        "list": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "limits": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "iomanip": "cpp"
+    }
+}
